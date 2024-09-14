@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh ;
+}
+.AppHeader{
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 5px solid rgba(71, 62, 197, 0.15);
+}
